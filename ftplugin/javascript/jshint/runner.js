@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var jshint = require('jshint').JSHINT,
+var jshint = require('jsxhint').JSHINT,
   puts = require('util').puts,
   stdin = process.openStdin(),
   fs = require('fs'),
